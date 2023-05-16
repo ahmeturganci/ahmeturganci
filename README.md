@@ -1,11 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ahmet</h1>
 <h3 align="center">A passionate software engineer from Turkey</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmeturganci" alt="ahmeturganci" /> </p>
-
-- 🔭 I’m currently working on **In-house web application in my company**
-
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmeturganci&layout=compact&hide=html" alt="ahmeturganci" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmeturganci&show_icons=true" alt="ahmeturganci" /></p>
