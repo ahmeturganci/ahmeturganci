@@ -1,11 +1,22 @@
-<h1 align="center">Hi 👋, I'm Ahmet</h1>
-<h3 align="center">Passionate software engineer offering 5 years of experience. Enthuastic about Web Technologies and UI-UX</h3>
+<!-- Title and Personal Information -->
+# 👋 Hello, I'm Ahmet!
 
+I live in İzmir and work as a software engineer at OBSS. Passionate software engineer offering 6 years of experience. 
+Also I'm big of the fun cross platform framework special react native 🤘 Currently, i work as a software consultant in the education solutions department of Garanti technology company.
 
-<p align="center">
-  <a href="https://twitter.com/aahmeturganci" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="aahmeturganci" height="30" width="30" /></a>
-  <a href="https://linkedin.com/in/ahmet-urganci" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ahmet-urganci" height="30" width="30" /></a>
-  <a href="https://stackoverflow.com/users/6052427" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="6052427" height="30" width="30" /></a>
-  <a href="https://dribbble.com/ahmeturganci" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg" alt="ahmeturganci" height="30" width="30" /></a>
-  <a href="https://medium.com/@ahmeturganci" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@ahmeturganci" height="30" width="30" /></a>
-</p>
+<!-- About Me -->
+## 🌟 About Me
+
+- 🌍 Based in  Izmir - Turkey.
+- 💼 Working at OBSS - Software Engineer.
+- 🚀 Currently working on a project: Metronom project (i'm starting to play ney ).
+- 🌱 Currently learning: JavaScript Design Patterns.
+- 👒 Currently wathcing: Onepiece - OddTaxi 
+
+<!-- Social Media Links -->
+## 📫 Connect with Me:
+[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-Ask%20Me%20Anything-orange)](https://stackoverflow.com/users/6052427)
+[![Medium](https://img.shields.io/badge/Medium-Follow-black)](https://medium.com/@ahmeturganci)
+[![Spotify](https://img.shields.io/badge/Spotify-Follow-green)](https://open.spotify.com/user/aahmet.272?si=82c60adc91a64c66)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/ahmet-urganci)
+[![Personal Website](https://img.shields.io/badge/Website-Visit-brightgreen)](https://ahmeturganci.github.io/)
