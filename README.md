@@ -11,7 +11,7 @@ Also I'm big of the fun cross platform framework special react native 🤘 Curre
 - 💼 Working at OBSS - Software Engineer.
 - 🚀 Currently working on a project: Metronom project (i'm starting to play ney ).
 - 🌱 Currently learning: JavaScript Design Patterns.
-- 👒 Currently wathcing: Onepiece - OddTaxi 
+- 👒 Currently wathcing: Onepiece 
 
 <!-- Social Media Links -->
 ## 📫 Connect with Me:
