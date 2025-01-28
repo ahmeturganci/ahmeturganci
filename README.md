@@ -1,7 +1,7 @@
 <!-- Title and Personal Information -->
 # 👋 Hello, I'm Ahmet!
 
-I live in İzmir and work as a software engineer at OBSS. Passionate software engineer offering 6 years of experience. 
+I live in İzmir and work as a software engineer at OBSS. Passionate software engineer offering 7 years of experience. 
 Also I'm big of the fun cross platform framework special react native 🤘 Currently, i work as a software consultant in the education solutions department of Garanti technology company.
 
 <!-- About Me -->
