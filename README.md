@@ -9,7 +9,7 @@ Also I'm big of the fun cross platform framework special react native 🤘 Curre
 
 - 🌍 Based in  Izmir - Turkey.
 - 💼 Working at OBSS - Software Engineer.
-- 🚀 **Currently working on a project**: Basic scratch card for 100 top animes, Metronom project(its almost done).
+- 🚀 **Currently working on a project**: basic scrum pocker w nextJS and socket .
 - 🪬 **Currently wathcing** : my broken feelings :P  
 
 <!-- Social Media Links -->
