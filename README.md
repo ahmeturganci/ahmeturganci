@@ -1,15 +1,15 @@
 <!-- Title and Personal Information -->
 # 👋 Hello, I'm Ahmet!
 
-I live in İzmir and work as a software engineer at OBSS. Passionate software engineer offering 7 years of experience. 
-Also I'm big of the fun cross platform framework special react native 🤘 Currently, i work as a software consultant in the education solutions department of tech company.
+I live in İzmir and work as a software engineer at OBSS. Passionate software engineer offering 8 years of experience. 
+Also I'm big of the fun cross platform framework special react native 🤘 Currently, i work as a software consultant of tech company.
 
 <!-- About Me -->
 ## 🌟 About Me
 
 - 🌍 Based in  Izmir - Turkey.
 - 💼 Working at OBSS - Software Engineer.
-- 🪬 **Currently wathcing** : blue box
+- 🪬 **Currently wathcing** : sakamoto days
 
 <!-- Social Media Links -->
 ## 📫 Connect with Me:
