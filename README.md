@@ -9,7 +9,6 @@ Also I'm big of the fun cross platform framework special react native 🤘 Curre
 
 - 🌍 Based in  Izmir - Turkey.
 - 💼 Working at OBSS - Software Engineer.
-- 🪬 **Currently wathcing** : sakamoto days
 
 <!-- Social Media Links -->
 ## 📫 Connect with Me:
