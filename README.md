@@ -1,9 +1,15 @@
 <!-- Title and Personal Information -->
 # 👋 Hello, I'm Ahmet!
 
-I live in İzmir and work as a software engineer at OBSS. Passionate software engineer offering 8 years of experience. 
-Also I'm big of the fun cross platform framework special react native 🤘 Currently, i work as a software consultant of tech company.
-
+<p>
+      I live in İzmir and work as a software engineer at
+      <a href="https://obss.tech" target="_blank" rel="noopener noreferrer">OBSS</a>.
+      Passionate software engineer with 8+ years of experience in web technologies and cross-platform development.
+      Currently working as a software consultant in the
+      retirement department of Garanti Teknoloji. In recent years, I've also been focusing on AI —
+      exploring new tools, integrating them into my workflow, and producing a weekly AI news series called
+      <a href="/promptuna-bandim/">Prompt'una Bandım</a>.
+</p>
 <!-- About Me -->
 ## 🌟 About Me
 
