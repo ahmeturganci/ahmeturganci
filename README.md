@@ -1,5 +1,5 @@
 <!-- Title and Personal Information -->
-# 👋 Hello, I'm Ahmet!
+👋 Hello, I'm Ahmet!
 
 <p>
       I live in İzmir and work as a software engineer at
@@ -11,13 +11,13 @@
       <a href="/promptuna-bandim/">Prompt'una Bandım</a>.
 </p>
 <!-- About Me -->
-## 🌟 About Me
+ 🌟 About Me
 
 - 🌍 Based in  Izmir - Turkey.
 - 💼 Working at OBSS - Software Engineer.
 
 <!-- Social Media Links -->
-## 📫 Connect with Me:
+📫 Connect with Me:
 [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-Ask%20Me%20Anything-orange)](https://stackoverflow.com/users/6052427)
 [![Medium](https://img.shields.io/badge/Medium-Follow-black)](https://medium.com/@ahmeturganci)
 [![Spotify](https://img.shields.io/badge/Spotify-Follow-green)](https://open.spotify.com/user/aahmet.272?si=82c60adc91a64c66)
